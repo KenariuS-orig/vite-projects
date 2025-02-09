@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "validator": "^13.12.0",
+    "vite": "^6.1.0"
+  },
+  "name": "vite-projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenariuS-orig/vite-projects.git"
+  },
+  "keywords": [],
+  "author": "Georgyyan_Evgeny <zena2zoomcon2661@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenariuS-orig/vite-projects/issues"
+  },
+  "homepage": "https://github.com/KenariuS-orig/vite-projects#readme",
+  "description": ""
+}
